@@ -8,7 +8,7 @@ public class ForLoop {
          if (intArray1[i] % 2 == 0)
              System.out.println(intArray1[i]);
          else {
-             System.out.println("Bye");
+             System.out.println("Byess");
          }
 
      }
