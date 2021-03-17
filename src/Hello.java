@@ -27,4 +27,4 @@ public class Hello {
 }
 
 
-//write a finction which will convert string to uppercase
+//write a function which will convert string to uppercase
